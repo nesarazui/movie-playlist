@@ -4,7 +4,7 @@ https://movie-playlist-nesara.herokuapp.com/
 
 # To start this project:
 
-1. Clone [repo](https://github.com/nesarazui/movie-data-app)
+1. Clone [repo](https://github.com/nesarazui/movie-playlist)
 2. cd into project directory
 3. `npm install`
 4. `npm start`
