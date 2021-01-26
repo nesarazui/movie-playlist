@@ -1,3 +1,7 @@
+# Deployed:
+
+https://movie-playlist-nesara.herokuapp.com/
+
 # To start this project:
 
 1. Clone [repo](https://github.com/nesarazui/movie-data-app)
